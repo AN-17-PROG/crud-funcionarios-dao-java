@@ -1,0 +1,11 @@
+# Contraseña de la base de datos (cada persona crea la suya a partir del .example)
+src/main/resources/config.properties
+
+# Compilados y archivos de IDE
+target/
+build/
+*.class
+.idea/
+*.iml
+nbproject/private/
+.vscode/

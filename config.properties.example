@@ -1,0 +1,5 @@
+# Copie este archivo como config.properties y complete sus datos.
+# config.properties NO se sube a GitHub (está en .gitignore) para no exponer la contraseña.
+db.url=jdbc:mysql://localhost:3306/recursos_humanos?useSSL=false&allowPublicKeyRetrieval=true&serverTimezone=America/Bogota
+db.usuario=root
+db.clave=CAMBIAR_POR_SU_CLAVE
